@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.private/
+private/
+runtime/
+state/
+reports/
+screenshots/
+*.local.*
+__pycache__/

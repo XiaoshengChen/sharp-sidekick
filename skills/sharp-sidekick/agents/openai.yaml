@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sharp Sidekick · 冷面捧哏"
+  short_description: "筛选社交内容中的事实错漏和推理缺口，查证后写出简短、有增量的冷面回复"
+  default_prompt: "使用 $sharp-sidekick 检查指定账号最近的内容，只为有明确事实或推理增量的帖子拟定简短回复。"
